@@ -1,0 +1,10 @@
+C:\Users\Ada\Documents\BezAutoryzacji\GameApplication\GameApplication\bin\Debug\netcoreapp2.0\GameApplication.deps.json
+C:\Users\Ada\Documents\BezAutoryzacji\GameApplication\GameApplication\bin\Debug\netcoreapp2.0\GameApplication.runtimeconfig.json
+C:\Users\Ada\Documents\BezAutoryzacji\GameApplication\GameApplication\bin\Debug\netcoreapp2.0\GameApplication.runtimeconfig.dev.json
+C:\Users\Ada\Documents\BezAutoryzacji\GameApplication\GameApplication\bin\Debug\netcoreapp2.0\GameApplication.dll
+C:\Users\Ada\Documents\BezAutoryzacji\GameApplication\GameApplication\bin\Debug\netcoreapp2.0\GameApplication.pdb
+C:\Users\Ada\Documents\BezAutoryzacji\GameApplication\GameApplication\obj\Debug\netcoreapp2.0\GameApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ada\Documents\BezAutoryzacji\GameApplication\GameApplication\obj\Debug\netcoreapp2.0\GameApplication.AssemblyInfoInputs.cache
+C:\Users\Ada\Documents\BezAutoryzacji\GameApplication\GameApplication\obj\Debug\netcoreapp2.0\GameApplication.AssemblyInfo.cs
+C:\Users\Ada\Documents\BezAutoryzacji\GameApplication\GameApplication\obj\Debug\netcoreapp2.0\GameApplication.dll
+C:\Users\Ada\Documents\BezAutoryzacji\GameApplication\GameApplication\obj\Debug\netcoreapp2.0\GameApplication.pdb
